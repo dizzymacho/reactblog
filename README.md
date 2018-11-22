@@ -10,3 +10,12 @@ Or [view the live demo here](https://gatsby-starter-hello-world-demo.netlify.com
 
 ## Running in development
 `gatsby develop`
+
+## Dependencies
+This Gatsby Powered React app was created using the tutorial on the [Gatsby Website](https://www.gatsbyjs.org/tutorial/)  
+
+* gatsby-plugin-typography
+* gatsby-source-filesystem
+* gatsby-transformer-remark
+* npm install --save react react-dom
+* npm install --save react-bootstrap

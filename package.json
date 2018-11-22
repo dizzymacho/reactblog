@@ -14,8 +14,9 @@
     "gatsby-source-filesystem": "^2.0.8",
     "gatsby-source-graphql": "^2.0.6",
     "gatsby-transformer-remark": "^2.1.12",
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
+    "react": "^16.6.3",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.6.3",
     "react-typography": "^0.16.13",
     "typography": "^0.16.17",
     "typography-theme-fairy-gates": "^0.15.11"
