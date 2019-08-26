@@ -10,27 +10,19 @@ export default ({ children }) => (
       margin: 0 auto;
       max-width: 700px;
       padding: ${rhythm(2)};
-      padding-top: ${rhythm(1.5)};
+      padding-top: ${rhythm(.1)};
     `}
   >
     <Link to={`/`}>
       <h3
         css={css`
-          margin-bottom: ${rhythm(2)};
+          margin-bottom: ${rhythm(.5)};
           display: inline-block;
           font-style: normal;
         `}
       >
-        Pandas Eating Lots
+        @DIZZYMACHO
       </h3>
-    </Link>
-    <Link
-      to={`/about/`}
-      css={css`
-        float: right;
-      `}
-    >
-      About
     </Link>
     {children}
   </div>

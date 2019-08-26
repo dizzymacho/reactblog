@@ -1,6 +1,6 @@
 ---
-path: "/blog/test"
+path: "/blog/the-5-whys-for-product-managers"
 date: "2018-11-11"
-title: "Testing Markdown"
+title: "The 5 Whys for Product Managers?"
 ---
 We are testing markdown

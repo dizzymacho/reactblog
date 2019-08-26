@@ -1,14 +1,15 @@
 import React from "react"
 import Layout from "../components/layout"
+import { Link } from "gatsby"
 
 export default () => (
   <Layout>
-    <h1>Amazing Pandas Eating Things</h1>
-    <div>
-      <img
-        src="https://2.bp.blogspot.com/-BMP2l6Hwvp4/TiAxeGx4CTI/AAAAAAAAD_M/XlC_mY3SoEw/s1600/panda-group-eating-bamboo.jpg"
-        alt="Group of pandas eating bamboo"
-      />
-    </div>
+    <h1>Hi, my name is David Israel Machovec.</h1>
+    <p>I'm a Product Developer, Web Developer, Yoga Instructor, Video Game Streamer, Meme Maker, Sports Gambler and Writer.</p>
+    <Link to={`/blog`}>
+    <p>Read Blog</p>
+    </Link>
+    <p></p>
+    <p></p>
   </Layout>
 )
