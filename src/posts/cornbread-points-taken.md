@@ -11,3 +11,5 @@ Make me a bike clown, this one isn't easy.
 Hail the Utah Aggies -28.5
 
 See you at the window
+
+[Back to Blog](/blog)

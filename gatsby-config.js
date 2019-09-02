@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-   title: `@dizzymacho`,
- },
+    title: `@dizzymacho`,
+  },
   plugins: [
     `gatsby-plugin-emotion`,
     {
@@ -11,12 +11,19 @@ module.exports = {
       },
     },
     {
-    resolve: `gatsby-source-filesystem`,
-    options: {
-      path: `${__dirname}/src/posts`,
-      name: "markdown-pages",
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/posts`,
+        name: "markdown-pages",
+      },
     },
-  },
-  `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/images`,
+        name: `images`,
+      },
+    },
+    `gatsby-transformer-remark`,
   ],
 }

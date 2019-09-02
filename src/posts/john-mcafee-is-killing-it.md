@@ -13,3 +13,5 @@ Don't just take my word for it, watch [his documentary on Netflix](https://www.n
 John casually tweets about a woman at a bar in Hatteras that wants to bang him and rebuttals someone who says he looks like a corroded testicle.
 
 You just keep being awesome "John Fucking McAfee".
+
+[Back to Blog](/blog)

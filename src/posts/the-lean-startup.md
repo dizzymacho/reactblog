@@ -15,3 +15,5 @@ The Lean Startup methodology argues for quickly testing and iterating ideas base
 If you have a start-up/business idea, whether the idea is software related or not, this book is a great "How To Guide" for getting those ideas off the ground and staying lean.
 
 [**Download on Audible**](https://www.audible.com/pd/The-Lean-Startup-Audiobook/B005LXV0HI)
+
+[Back to Blog](/blog)

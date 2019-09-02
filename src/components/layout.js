@@ -8,21 +8,16 @@ export default ({ children }) => (
   <div
     css={css`
       margin: 0 auto;
-      max-width: 700px;
+      max-width: 900px;
       padding: ${rhythm(2)};
       padding-top: ${rhythm(.1)};
     `}
   >
     <Link to={`/`}>
-      <h3
-        css={css`
-          margin-bottom: ${rhythm(.5)};
-          display: inline-block;
-          font-style: normal;
-        `}
+      <h2
       >
         @DIZZYMACHO
-      </h3>
+      </h2>
     </Link>
     {children}
   </div>

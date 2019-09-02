@@ -42,3 +42,5 @@ When you encounter failures -- including failures to achieve business results, p
 Similarly, whenever a system or process isn't working properly, ask why 5 times and find the human error before you embark on a more in-depth approach. You’ll be able to quickly uncover blind spots, remove assumptions, and prioritize effectively.
 
 Now it’s your turn! The next time you have a fire, instead of grabbing the water bucket, embrace your inner child and just ask why?
+
+[Back to Blog](/blog)

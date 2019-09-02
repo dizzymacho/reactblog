@@ -14,3 +14,5 @@ This might be good to include in employee onboarding everywhere.
 ![](https://cdn-images-1.medium.com/max/1600/1*nczAnbyi86of-G4NvuTIYg.jpeg)
 
 Source: [CBInsights](https://twitter.com/cbinsights/status/1023528249073262597?lang=en)
+
+[Back to Blog](/blog)

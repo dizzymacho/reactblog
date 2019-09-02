@@ -21,3 +21,5 @@ Regardless if you kneel or stand, the system may have some trouble on their hand
 God Speed Vince!
 
 Source ([YouTube](https://www.youtube.com/watch?v=e1LUVHT18bc))
+
+[Back to Blog](/blog)
